@@ -261,3 +261,4 @@ youtube.googleapis.com
 youtubei.googleapis.com
 ytimg.com
 ytimg.l.google.com
+tmdb.org
