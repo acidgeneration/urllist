@@ -428,3 +428,6 @@ docker.io
 pypi.org
 raw.githubusercontent.com
 cloudinary.com
+derivative.ca
+touchdesigner.com
+wibu.cloud
