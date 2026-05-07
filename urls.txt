@@ -499,3 +499,4 @@ e9.whatsapp.net
 e10.whatsapp.net
 whatsapp.net
 wa.me
+claude.com
