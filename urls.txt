@@ -500,3 +500,10 @@ e10.whatsapp.net
 whatsapp.net
 wa.me
 claude.com
+meta.com
+oculus.com
+oculuscdn.com
+facebook.com
+fbcdn.net
+fbsbx.com
+oculus.net
