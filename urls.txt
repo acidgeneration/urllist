@@ -507,3 +507,11 @@ facebook.com
 fbcdn.net
 fbsbx.com
 oculus.net
+mi.com
+xiaomi.com
+xiaomi.net
+miot-spec.org
+micloud.com
+micloud.xiaomi.net
+yeelight.com
+yeelink.net
